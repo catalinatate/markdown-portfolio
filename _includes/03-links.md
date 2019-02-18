@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[Garden Feathers Website](http://www.gardenfeathers.co.uk)
