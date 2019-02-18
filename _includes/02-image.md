@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+! [Garden Feathers Logo] (https://www.gardenfeathers.co.uk/user/templates/garden-feathers/garden-feathers-logo.gif)
